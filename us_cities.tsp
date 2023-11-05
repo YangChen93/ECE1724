@@ -1,7 +1,8 @@
-NAME: us_cities20
+NAME: berlin52
 TYPE: TSP
-COMMENT: 20 cities in US (Groetschel)
-DIMENSION: 20
+COMMENT: 52 locations in Berlin (Groetschel)
+DIMENSION: 52
+EDGE_WEIGHT_TYPE: EUC_2D
 NODE_COORD_SECTION
 1 565.0 575.0
 2 25.0 185.0
