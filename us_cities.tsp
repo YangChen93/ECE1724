@@ -1,4 +1,4 @@
-NAME: us_cities
+NAME: us_cities20
 TYPE: TSP
 COMMENT: 20 cities in US (Groetschel)
 DIMENSION: 20
